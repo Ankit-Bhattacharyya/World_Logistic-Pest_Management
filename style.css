@@ -2,3 +2,8 @@
     border-radius: 50%;
     background: red;
 }
+
+#contactId {
+    background-color: rgb(168, 228, 228);
+    transform: translate(0 -20px);
+}
